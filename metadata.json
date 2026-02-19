@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AlphaForge Quant Lab",
+  "description": "Professional-grade quantitative research workstation for order flow modeling, RMT portfolio construction, and volatility forecasting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
